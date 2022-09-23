@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f791c4b9-eb0f-4c27-980a-01a1d006d64d" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="44964942">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="9" />
+          <entry key="JSON" value="7" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="562" />
+          <entry key="JSON" value="203" />
+          <entry key="XML" value="84" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/Java/Functions/ReadFiles.java" />
+        <option value="$PROJECT_DIR$/src/test/Java/TestCases/Add_Clients.java" />
+        <option value="$PROJECT_DIR$/src/test/Java/TestCases/Add_Products.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Views/Add_Products.json" />
+        <option value="$PROJECT_DIR$/src/test/resources/Views/Update_Company.json" />
+        <option value="$PROJECT_DIR$/src/test/Java/TestCases/Update_Company.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Test.xml" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Products" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Clients" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Update_Company" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Notes" />
+        <option value="$PROJECT_DIR$/src/test/Java/TestCases/Add_Notes.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/Views/Add_Notes.json" />
+        <option value="$PROJECT_DIR$/src/test/resources/XMLFiles/Test_Mix.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="width" value="1944" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationApp_Appium_NoteControl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationApp_Appium_NoteControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationApp_Appium_NoteControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationApp_Appium_NoteControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AppiumTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="automationApp_Appium_NoteControl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1663968316307" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml">
+    <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Add_Clients.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Clients.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/XMLFiles/Test_Mix.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AppiumTests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/XMLFiles/Test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Add_Clients.xml" />
+      <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test.xml" />
+      <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" />
+        <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test.xml" />
+        <item itemvalue="TestNG.C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Add_Clients.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f791c4b9-eb0f-4c27-980a-01a1d006d64d" name="Default Changelist" comment="" />
+      <created>1663777392206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663777392206</updated>
+      <workItem from="1663777393648" duration="3569000" />
+      <workItem from="1663800591511" duration="2328000" />
+      <workItem from="1663966183729" duration="2166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_xml - 2022.09.21 at 18h 54m 53s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_xml - 2022.09.21 at 18h 57m 26s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 16h 57m 39s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 11m 47s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 12m 58s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 13m 11s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 15m 23s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 19m 42s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 22m 34s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_Kimberling_Desktop_1_3_Selenium_Cucumber_BaseFramework_automationApp_Appium_NoteControl_src_test_resources_XMLFiles_Test_Mix_xml - 2022.09.23 at 17h 24m 57s.xml">
+      <configuration name="C:/Users/Kimberling/Desktop/1.3 Selenium.Cucumber.BaseFramework/automationApp_Appium_NoteControl/src/test/resources/XMLFiles/Test_Mix.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8063000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14056939" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/Java/Functions/ReadFiles.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/7.6.0/java-client-7.6.0.jar!/io/appium/java_client/DefaultGenericMobileDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Java/Functions/DefinitionActions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="90" column="36" selection-start-line="90" selection-start-column="36" selection-end-line="90" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Views/Add_Products.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="26" column="9" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Java/TestCases/Add_Products.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="4" column="27" lean-forward="true" selection-end-line="129" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Views/Update_Company.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Java/TestCases/Update_Company.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="106" column="63" selection-start-line="106" selection-start-column="63" selection-end-line="106" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Products">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Clients">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Java/TestCases/Add_Clients.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Views/Add_Clients.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/XMLFiles/Add_Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Java/TestCases/Add_Notes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="114" column="57" selection-start-line="114" selection-start-column="57" selection-end-line="114" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/Views/Add_Notes.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/XMLFiles/Update_Company">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/XMLFiles/Test_Mix.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

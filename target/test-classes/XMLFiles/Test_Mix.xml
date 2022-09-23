@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You can get the Note Control app in https://play.google.com/store/apps/details?id=com.brunoxapps.notecontrol -->
+<suite name="Suite1" verbose="1" >
+    <test name="Add Clients">
+        <groups>
+            <run>
+                <exclude name="testExclude" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TestCases.Add_Clients"/>
+        </classes>
+    </test>
+    <test name="Add Products">
+        <groups>
+            <run>
+                <exclude name="testExclude" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TestCases.Add_Products"/>
+        </classes>
+    </test>
+    <test name="Add Notes">
+        <groups>
+            <run>
+                <exclude name="testExclude" />
+            </run>
+        </groups>
+        <classes>
+            <class name="TestCases.Add_Notes"/>
+        </classes>
+    </test>
+</suite>

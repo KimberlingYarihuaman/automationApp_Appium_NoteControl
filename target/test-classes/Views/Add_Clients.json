@@ -1,0 +1,37 @@
+{
+  "Clients": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/navigation_clients"
+  },
+
+  "Add": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/main_menu_add"
+  },
+
+  "Name": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/name"
+  },
+
+  "Address": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/address"
+  },
+
+  "Email": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/email"
+  },
+
+  "Phone": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/phone"
+  },
+
+  "Save": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/btn_save"
+  }
+
+}

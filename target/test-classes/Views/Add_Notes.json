@@ -1,0 +1,37 @@
+{
+  "Notes": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/navigation_notes"
+  },
+
+  "Add Notes": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/main_menu_add"
+  },
+
+  "Add Client": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/form_notes_menu_client"
+  },
+
+  "Client Option": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout"
+  },
+
+  "Add Product": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/form_notes_menu_product"
+  },
+
+  "Product Option": {
+    "GetFieldBy": "xpath",
+    "ValueToFind": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout[2]/android.widget.LinearLayout/android.widget.ListView/android.widget.LinearLayout/android.widget.LinearLayout"
+  },
+
+  "Save": {
+    "GetFieldBy": "id",
+    "ValueToFind": "com.brunoxapps.notecontrol:id/btn_save"
+  }
+
+}
